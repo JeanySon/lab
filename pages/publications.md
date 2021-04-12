@@ -1,7 +1,7 @@
 ---
 layout: publications
 title: Publications
-description: Who we are
+description: 
 permalink: /Publications/
 ---
 
