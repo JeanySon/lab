@@ -1,6 +1,6 @@
 # SITE SETTINGS
-title: Vision & Learning Lab.                        # Title in top navigation bar (navbar) and <head>
-description: GIST Vision & Learning Lab.             # Site description in <head>
+title: Machine Vision & Learning Lab.                        # Title in top navigation bar (navbar) and <head>
+description: GIST Machine Vision & Learning Lab.             # Site description in <head>
 author: Jeany Son                       # Used for copyright statement in footer
 # url: "https://jeanyson.github.io"  # No slash at the end
 # baseurl: "/lab"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
