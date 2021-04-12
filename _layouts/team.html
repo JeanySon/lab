@@ -19,9 +19,9 @@ description: Template for team page
       {{ member.description | markdownify }}
 
       <ul class="list-inline">
-        {% if member.orcid %}
+        {% if member.homepage %}
         <li class="list-inline-item">
-          <a href="https://orcid.org/{{ member.orcid }}"><img class="orcid" src="{{ '/assets/theme/img/orcid.png' | relative_url }}"></a>
+          <a href="https://{ member.homepage }}"><i class="fa fa-home" aria-hidden="true"></i></a>
         </li>
         {% endif %}
 
