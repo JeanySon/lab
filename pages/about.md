@@ -1,9 +1,20 @@
 ---
-title: About
-description: Example page for [Markdown syntax](https://guides.github.com/features/mastering-markdown/)
+title: Members
+description: Our team
 background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=format&w=2000
-permalink: /about/
+permalink: /members/
 ---
+
+
+![alt text](https://jeanyson.github.io/images/jeany.png){: .rounded .float-left}
+> Jeany Son
+- Assistant Professor
+
+
+
+{: .clearfix}
+
+
 
 See [`pages/about.md`](https://raw.githubusercontent.com/peterdesmet/petridish/master/pages/about.md) for the raw Markdown of this page.
 
