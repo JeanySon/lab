@@ -1,18 +1,10 @@
 ---
-title: Members
-description: Our team
+title: publications
+description: Publications
 background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=format&w=2000
-permalink: /members/
+permalink: /publications/
 ---
 
-
-![alt text](https://jeanyson.github.io/images/jeany.png){: .rounded .float-left}
-> Jeany Son
-- Assistant Professor
-
-
-
-{: .clearfix}
 
 
 
