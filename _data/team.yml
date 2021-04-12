@@ -16,4 +16,4 @@
   role: Graduate Student # Will appear next to name
   image: assets/img/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
   description: > 
-    I am looking forward <b>strong</b> and <b>motivated</b> graduate students. Please contact the <a href="mailto:jeany@gist.ac.kr">faculty</a> if you are interested in getting involved.
+    I am looking forward **strong** and **motivated** graduate students. Please contact the [faculty](mailto:jeany@gist.ac.kr) if you are interested in getting involved.
