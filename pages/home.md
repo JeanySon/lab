@@ -1,7 +1,7 @@
 ---
 layout: home
-title: GIST Vision & Learning Lab.
-description: GIST Vision & Learning Lab.
+title: MVL
+description: GIST Machine Vision & Learning Laboratory
 background: /assets/img/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
