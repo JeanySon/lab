@@ -1,12 +1,10 @@
 <div class="card" data-categories="{% for category in post.categories %}{{ category | downcase | strip }}|{% endfor %}">
   <a href="{{ post.url | relative_url }}">
-    <img class="card-img-top" src="{{ /assets/img/beach2.jpg | relative_url }}">
-    <!--{% if post.background %}
+    {% if post.background %}
       <img class="card-img-top" src="{{ post.background | relative_url }}">
     {% else %}
       <div class="card-img-top bg-secondary"></div>
     {% endif %}
-    -->
   </a>
 
   <div class="card-body position-relative">
@@ -17,11 +15,8 @@
     <h6 class="card-subtitle">{{ post.date | date: "%B %d, %Y" }}</h6>
 
     <div class="card-text">
-      {% if post.background %}
-        <img src="{{ post.background | relative_url }}">
-      {% endif %}
       {% if post.description %}
-        {{ post.description | markdownify | truncatewords: 20 }}
+        {{ post.description | markdownify | truncatewords: 20 }}
       {% else %}
         {{ post.excerpt | truncatewords: 20 }}
       {% endif %}
