@@ -16,7 +16,7 @@ description: Template for publications page
         <small class="text-muted">{{ paper.author }}</small>
       {% endif %}
 
-      <small class="text-muted"> {{ paper.conference | markdownify }} </small>
+      <small> {{ paper.conference | markdownify }} </small>
 
       <ul class="list-inline">
         {% if paper.pdf %}
