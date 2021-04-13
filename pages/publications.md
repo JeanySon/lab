@@ -15,8 +15,7 @@ _Jaedong Hwang, Seohyun Kim, Jeany Son, Bohyung Han_
   
   
 #### 2018
-
-![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=100&h=80&fit=crop){: .rounded .float-left}  
+![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=100&h=80&fit=crop){: .rounded .float-left}
 Forget & Diversify: Regularized Refinement for Weakly Supervised Object Detection  
 _Jeany Son, Daniel Kim, Solae Lee, Suha Kwak, Minsu Cho, Bohyung Han_  
 **ACCV 2018 (oral)** [paper]  
