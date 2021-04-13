@@ -3,13 +3,13 @@
 - name: Weakly Supervised Instance Segmentation by Deep Community Learning
   image: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=120&h=120&fit=crop
   author: Jaedong Hwang, Seohyun Kim, Jeany Son, Bohyung Han
-  conference: **WACV 2021**
+  conference: > **WACV 2021**
 
   
 - name: Forget & Diversify: Regularized Refinement for Weakly Supervised Object Detection
   image: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=120&h=120&fit=crop
   author: Jeany Son, Daniel Kim, Solae Lee, Suha Kwak, Minsu Cho, Bohyung Han
-  conference: **ACCV 2018 (oral)** [paper](https://jeanyson.github.com/lab)
+  conference: > **ACCV 2018 (oral)** [paper](https://jeanyson.github.com/lab)
 
 
 - name: Real-Time MDNet  
