@@ -9,7 +9,7 @@ permalink: /publications/
 
 ![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=120&h=120&fit=crop){: .rounded .float-left}
 Weakly Supervised Instance Segmentation by Deep Community Learning  
-_Jaedong Hwang, Seohyun Kim, Jeany Son, Bohyung Han_  
+<font size="1">_Jaedong Hwang, Seohyun Kim, Jeany Son, Bohyung Han_</font>  
 **WACV 2021**  
 {: .clearfix}
   
