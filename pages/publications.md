@@ -1,7 +1,7 @@
 ---
 title: publications
 description: Publications
-background: /assets/img/food.jpg
+background: /assets/img/food2.jpg
 permalink: /publications/
 ---
 
