@@ -2,6 +2,7 @@
 layout: archive
 title: News
 description: News & blog posts
+background: /assets/img/beach2.jpg
 permalink: /blog/
 ---
 
