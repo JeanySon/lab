@@ -14,6 +14,7 @@
 
     <h6 class="card-subtitle">{{ post.date | date: "%B %d, %Y" }}</h6>
 
+    <!--
     <div class="card-text">
       {% if post.description %}
         {{ post.description | markdownify | truncatewords: 20 }}
@@ -22,6 +23,7 @@
       {% endif %}
     </div>
   </div>
+  -->
 
   {% if post.categories and site.archive_permalink %}
     <div class="card-footer">
