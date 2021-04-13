@@ -5,57 +5,89 @@ background: /assets/img/food3.jpg
 permalink: /publications/
 ---
 
-### 2021
+#### 2021
 
 ![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=100&h=80&fit=crop){: .rounded .float-left}
-
-Jaedong Hwang, Seohyun Kim, Jeany Son, Bohyung Han.
-Weakly Supervised Instance Segmentation by Deep Community Learning.
-**WACV 2021**.
+Weakly Supervised Instance Segmentation by Deep Community Learning. 
+_Jaedong Hwang, Seohyun Kim, Jeany Son, Bohyung Han_. 
+**WACV 2021**. 
 {: .clearfix}
   
-### 2018
-- Jeany Son, Daniel Kim, Solae Lee, Suha Kwak, Minsu Cho, Bohyung Han
-  Forget & Diversify: Regularized Refinement for Weakly Supervised Object Detection
-  ACCV 2018 (oral) [paper]
-- Ilchae Jung, Jeany Son, Mooyeol Baek, Bohyung Han
-  Real-Time MDNet
-  ECCV 2018 [paper] [code] [project page]
-### 2017
+  
+#### 2018
+
+![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=100&h=80&fit=crop){: .rounded .float-left}  
+Forget & Diversify: Regularized Refinement for Weakly Supervised Object Detection  
+_Jeany Son, Daniel Kim, Solae Lee, Suha Kwak, Minsu Cho, Bohyung Han_  
+**ACCV 2018 (oral)** [paper]  
+{: .clearfix}
+
+![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=100&h=80&fit=crop){: .rounded .float-left}
+Real-Time MDNet  
+_Ilchae Jung, Jeany Son, Mooyeol Baek, Bohyung Han_  
+**ECCV 2018** [paper] [code] [project page]  
+{: .clearfix}
+
+#### 2017
+![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=100&h=80&fit=crop){: .rounded .float-left}
 - Jeany Son, Mooyeol Baek, Minsu Cho, Bohyung Han
   Multi-Object Tracking with Quadruplet Convolutional Neural Network
   CVPR 2017 [paper] [results]
+{: .clearfix}
+
+![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=100&h=80&fit=crop){: .rounded .float-left}
 - Donghun Yeo, Jeany Son, Bohyung Han, Joonhee Han
   Superpixel-based Tracking-by-Segmentation using Markov Chains
   CVPR 2017 [paper]
-### 2015
+{: .clearfix}
+
+#### 2015
+![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=100&h=80&fit=crop){: .rounded .float-left}
 - Jeany Son, Ilchae Jung, Kayoung Park, Bohyung Han
   Tracking-by-Segmentation with Online Gradient Boosting Decision Tree
   ICCV 2015 [paper] [project page]
+{: .clearfix}
+
 ### 2014
+![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=100&h=80&fit=crop){: .rounded .float-left}
 - Jan Feyereisl, Suha Kwak, Jeany Son, Bohyung Han
   Object Localization based on Structural SVM using Privileged Information
   NIPS 2014 [paper]
-### 2013
+{: .clearfix}
+  
+#### 2013
+![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=100&h=80&fit=crop){: .rounded .float-left}
 - Jeany Son, Ilchae Jung, Bohyung Han
   Real-Time Human Tracking with Detection Feedback
   Journal of KIISE: Software and Applications, Vol. 40(12), 859-868, 2013
-### 2011
+{: .clearfix}
+  
+#### 2011
+![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=100&h=80&fit=crop){: .rounded .float-left}
 - Chang-Kyu Song, Jeany Son, Suha Kwak, Bohyung Han
   Dynamic Resource Allocation by Ranking SVM for Particle Filter Tracking
   BMVC 2011 [paper]
-### 2010
+{: .clearfix}
+ 
+#### 2010
+![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=100&h=80&fit=crop){: .rounded .float-left}
 - Soo-Min Song, Jeany Son, Myoung-Hee Kim
   Stitching of Microscopic Images for Quantifying Neuronal Growth and Spine Plasticity
   ISVC 2010
+{: .clearfix}
+  
+![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=100&h=80&fit=crop){: .rounded .float-left}
 - Jeany Son, Soo-Min Song, Su-Ho Lee, Sung-Hoe Chang, Myoung-Hee Kim
   Morphological Change Tracking of Dendritic Spines based on Structural Features 
   Journal of Microscopy, Vol.241, No.3, 2010 (SCI IF:2.136)
-### 2009
+{: .clearfix}
+
+#### 2009
+![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=100&h=80&fit=crop){: .rounded .float-left}
 - Jeany Son, Soo-min Song, Myoung-Hee Kim
   Dendritic Spine Detection using Tree-like Structure of Neurons
   The 12th Korea-German Joint Workshop on Advanced Medical Image Processing, 2009
-
+{: .clearfix}
 
 See [`pages/about.md`](https://raw.githubusercontent.com/peterdesmet/petridish/master/pages/about.md) for the raw Markdown of this page.
 
