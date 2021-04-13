@@ -2,6 +2,6 @@
 layout: members
 title: Members
 description: Who we are
-background: /assets/img/flower.png
+background: /assets/img/flower.jpeg
 permalink: /members/
 ---
