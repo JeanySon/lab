@@ -10,7 +10,7 @@
   
   
 
-- name: New member
+- name: ?
   role: Graduate Student # Will appear next to name
   image: assets/img/student.png # Can be external link
   description: > 
