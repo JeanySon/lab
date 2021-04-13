@@ -1,0 +1,42 @@
+---
+layout: default
+description: Template for publications page
+---
+
+{{ content }}
+
+{% for paper in site.data.publications %}
+  <div class="media paper">
+    <img class="mr-3" src="{{ paper.image | relative_url }}">
+    <div class="media-body">
+      <h5 id="{{ paper.name | strip | url_encode }}">
+        {{ paper.name }}
+      </h5>
+      {% if paper.author %}
+        <small class="text-muted">| {{ paper.author }}</small>
+      {% endif %}
+
+      {{ paper.conference | markdownify }}
+
+      <ul class="list-inline">
+        {% if paper.pdf %}
+        <li class="list-inline-item">
+          <a href="https://{{ paper.pdf }}"><i class="fa fa-home" aria-hidden="true"></i></a>
+        </li>
+        {% endif %}
+
+        {% if paper.project %}
+        <li class="list-inline-item">
+          <a href="https://{{ paper.project }}"><i class="fa fa-envelope"></i></a>
+        </li>
+        {% endif %}
+
+        {% if paper.github %}
+        <li class="list-inline-item">
+          <a href="https://github.com/{{ paper.github }}"><i class="fa fa-github"></i></a>
+        </li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+{% endfor %}
