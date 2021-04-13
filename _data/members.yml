@@ -12,6 +12,6 @@
 
 - name: New member
   role: Graduate Student # Will appear next to name
-  image: assets/img/student.png # Can be external link
+  image: assets/img/student_grey.png # Can be external link
   description: > 
     I am looking forward **strong** and **motivated** graduate students. Please contact the [faculty](mailto:jeany@gist.ac.kr) if you are interested in getting involved.
