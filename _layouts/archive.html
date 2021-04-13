@@ -5,17 +5,20 @@ remarks: See also page.layout == 'archive' in footer.html
 ---
 
 <div class="row">
-  <div class="col">
+  <div class="col-md-10 col-lg-8 mx-auto">
+    <div class="row">
+      <div class="col">
 
-    {{ content }}
+        {{ content }}
   
+    </div>
   </div>
-</div>
 
-<div class="row cards mt-4">
-  {% for post in site.posts %}
-  <div class="col-md-6">
-    {% include card.html %}
+  <div class="row cards mt-4">
+    {% for post in site.posts %}
+    <div class="col-md-6">
+      {% include card.html %}
+    </div>
+    {% endfor %}
   </div>
-  {% endfor %}
 </div>
