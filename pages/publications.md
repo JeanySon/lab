@@ -7,17 +7,11 @@ permalink: /publications/
 
 ### 2021
 
-![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=150&h=150&fit=crop){: .rounded .float-left}
-
-  Jaedong Hwang, Seohyun Kim, Jeany Son, Bohyung Han
-  Weakly Supervised Instance Segmentation by Deep Community Learning
-  WACV 2021
-
+![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=100&h=80&fit=crop){: .rounded .float-left}
+Jaedong Hwang, Seohyun Kim, Jeany Son, Bohyung Han
+Weakly Supervised Instance Segmentation by Deep Community Learning
+WACV 2021
 {: .clearfix}
-
-- Jaedong Hwang, Seohyun Kim, Jeany Son, Bohyung Han
-  Weakly Supervised Instance Segmentation by Deep Community Learning
-  WACV 2021
   
 ### 2018
 - Jeany Son, Daniel Kim, Solae Lee, Suha Kwak, Minsu Cho, Bohyung Han
