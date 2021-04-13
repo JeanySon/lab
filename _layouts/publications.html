@@ -9,9 +9,8 @@ description: Template for publications page
   <div class="media paper">
     <img class="mr-3" src="{{ paper.image | relative_url }}">
     <div class="media-body">
-      <h6 id="{{ paper.name | strip | url_encode }}">
-        {{ paper.name }}
-      </h6>     
+      {{ paper.name }}
+      <br>     
       
       {% if paper.author %}
         <small class="text-muted">| {{ paper.author }}</small>
