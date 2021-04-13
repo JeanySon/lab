@@ -2,7 +2,7 @@
 layout: home
 title: MVL
 description: GIST Machine Vision & Learning Laboratory
-background: /assets/img/flower2.jpg
+background: /assets/img/flower2.png
 permalink: /
 ---
 
