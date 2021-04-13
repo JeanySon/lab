@@ -1,6 +1,6 @@
 ---
 title: publications
-description: Publications
+description: Journal & Conference papers
 background: /assets/img/food3.jpg
 permalink: /publications/
 ---
