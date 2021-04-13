@@ -5,38 +5,58 @@ background: /assets/img/food3.jpg
 permalink: /publications/
 ---
 
-## 2021
+### 2021
 
+![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=150&h=150&fit=crop){: .rounded .float-left}
+
+  Jaedong Hwang, Seohyun Kim, Jeany Son, Bohyung Han
+  Weakly Supervised Instance Segmentation by Deep Community Learning
+  WACV 2021
+
+{: .clearfix}
+
+- Jaedong Hwang, Seohyun Kim, Jeany Son, Bohyung Han
+  Weakly Supervised Instance Segmentation by Deep Community Learning
+  WACV 2021
+  
+### 2018
 - Jeany Son, Daniel Kim, Solae Lee, Suha Kwak, Minsu Cho, Bohyung Han
   Forget & Diversify: Regularized Refinement for Weakly Supervised Object Detection
   ACCV 2018 (oral) [paper]
 - Ilchae Jung, Jeany Son, Mooyeol Baek, Bohyung Han
   Real-Time MDNet
   ECCV 2018 [paper] [code] [project page]
+### 2017
 - Jeany Son, Mooyeol Baek, Minsu Cho, Bohyung Han
   Multi-Object Tracking with Quadruplet Convolutional Neural Network
   CVPR 2017 [paper] [results]
 - Donghun Yeo, Jeany Son, Bohyung Han, Joonhee Han
   Superpixel-based Tracking-by-Segmentation using Markov Chains
   CVPR 2017 [paper]
+### 2015
 - Jeany Son, Ilchae Jung, Kayoung Park, Bohyung Han
   Tracking-by-Segmentation with Online Gradient Boosting Decision Tree
   ICCV 2015 [paper] [project page]
+### 2014
 - Jan Feyereisl, Suha Kwak, Jeany Son, Bohyung Han
   Object Localization based on Structural SVM using Privileged Information
   NIPS 2014 [paper]
+### 2013
 - Jeany Son, Ilchae Jung, Bohyung Han
   Real-Time Human Tracking with Detection Feedback
   Journal of KIISE: Software and Applications, Vol. 40(12), 859-868, 2013
+### 2011
 - Chang-Kyu Song, Jeany Son, Suha Kwak, Bohyung Han
   Dynamic Resource Allocation by Ranking SVM for Particle Filter Tracking
   BMVC 2011 [paper]
+### 2010
 - Soo-Min Song, Jeany Son, Myoung-Hee Kim
   Stitching of Microscopic Images for Quantifying Neuronal Growth and Spine Plasticity
   ISVC 2010
 - Jeany Son, Soo-Min Song, Su-Ho Lee, Sung-Hoe Chang, Myoung-Hee Kim
   Morphological Change Tracking of Dendritic Spines based on Structural Features 
   Journal of Microscopy, Vol.241, No.3, 2010 (SCI IF:2.136)
+### 2009
 - Jeany Son, Soo-min Song, Myoung-Hee Kim
   Dendritic Spine Detection using Tree-like Structure of Neurons
   The 12th Korea-German Joint Workshop on Advanced Medical Image Processing, 2009
