@@ -13,7 +13,7 @@ description: Template for publications page
       <br>           
       {% if paper.author %}
         <small>
-          <font color="grey">{{ paper.author | markdownify }}</font>         
+          {{ paper.author | markdownify }}       
           {{ paper.conference | markdownify }}
         </small>
       {% endif %}
