@@ -12,11 +12,12 @@ description: Template for publications page
       {{ paper.name }}
       <br>           
       {% if paper.author %}
-        <small class="text-muted">{{ paper.author | markdownify }}</small>
+        <small>
+          <span class="text-muted">{{ paper.author | markdownify }}</span> 
+        <br>
+        {{ paper.conference | markdownify }}
       {% endif %}
-      {% if paper.conference %}
-        <small> {{ paper.conference | markdownify }} </small>
-      {% endif %}
+      
 
       <ul class="list-inline">
         {% if paper.pdf %}
