@@ -2,7 +2,7 @@
 - year: 2021
 
 - name: Weakly Supervised Instance Segmentation by Deep Community Learning
-  image: assets/img/2021community.png
+  image: assets/img/2021community.jpg
   author: Jaedong Hwang, Seohyun Kim, Jeany Son, Bohyung Han
   conference: > 
     **WACV 2021**
@@ -10,14 +10,14 @@
 - year: 2018
  
 - name: Forget & Diversify; Regularized Refinement for Weakly Supervised Object Detection
-  image: assets/img/2018forget.png
+  image: assets/img/2018forget.jpg
   author: Jeany Son, Daniel Kim, Solae Lee, Suha Kwak, Minsu Cho, Bohyung Han
   conference: > 
     **ACCV 2018 (oral)** [paper]
     
 
 - name: Real-Time MDNet  
-  image: assets/img/2018rtmdnet.png
+  image: assets/img/2018rtmdnet.jpg
   author: Ilchae Jung, Jeany Son, Mooyeol Baek, Bohyung Han
   conference: >
     **ECCV 2018** [paper] [code] [project page]
@@ -27,14 +27,14 @@
  
 
 - name: Multi-Object Tracking with Quadruplet Convolutional Neural Network
-  image: assets/img/2017mot.png
+  image: assets/img/2017mot.jpg
   author: Jeany Son, Mooyeol Baek, Minsu Cho, Bohyung Han
   conference: >
     **CVPR 2017** [paper] [results]
 
 
 - name: Superpixel-based Tracking-by-Segmentation using Markov Chains
-  image: assets/img/2017sp.png
+  image: assets/img/2017sp.jpg
   author: Donghun Yeo, Jeany Son, Bohyung Han, Joonhee Han
   conference: >
     **CVPR 2017** [paper]  
@@ -43,7 +43,7 @@
 
 
 - name: Tracking-by-Segmentation with Online Gradient Boosting Decision Tree
-  image: assets/img/2015iccv.png
+  image: assets/img/2015iccv.jpg
   author: Jeany Son, Ilchae Jung, Kayoung Park, Bohyung Han
   conference: >
     **ICCV 2015** [paper] [project page]  
@@ -52,7 +52,7 @@
  
 
 - name: Object Localization based on Structural SVM using Privileged Information
-  image: assets/img/2014nips.png
+  image: assets/img/2014nips.jpg
   author: Jan Feyereisl, Suha Kwak, Jeany Son, Bohyung Han
   conference: >
     **NIPS 2014** [paper]  
@@ -60,7 +60,7 @@
 - year: 2013
   
 - name: Real-Time Human Tracking with Detection Feedback
-  image: assets/img/2013kiise.png
+  image: assets/img/2013kiise.jpg
   author: Jeany Son, Ilchae Jung, Bohyung Han
   conference: >
     **Journal of KIISE: Software and Applications, Vol. 40(12), 859-868, 2013**  
@@ -69,7 +69,7 @@
  
 
 - name: Dynamic Resource Allocation by Ranking SVM for Particle Filter Tracking
-  image: assets/img/2011rank.png
+  image: assets/img/2011rank.jpg
   author: Chang-Kyu Song, Jeany Son, Suha Kwak, Bohyung Han
   conference: >
     **BMVC 2011** [paper]
@@ -83,7 +83,7 @@
     **ISVC 2010** 
   
 - name: Morphological Change Tracking of Dendritic Spines based on Structural Features
-  image: assets/img/2010dendrite.png
+  image: assets/img/2010dendrite.jpg
   author: Jeany Son, Soo-Min Song, Su-Ho Lee, Sung-Hoe Chang, Myoung-Hee Kim
   conference: >
     **Journal of Microscopy, Vol.241, No.3, 2010 (SCI IF:2.136)**
