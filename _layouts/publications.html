@@ -18,7 +18,9 @@ img {
     {% if paper.year %}
       <p stype="line-height:110%;margin-bottom:0.5em"><font color='grey'>{{ paper.year }}</font></p>
     {% endif %}
+    {% if paper.image %}
     <img class="mr-3" height="150" width="150" src="{{ paper.image | relative_url }}">
+    {% endif %}
     <div class="media-body">
       {{ paper.name }}
       <br>           
