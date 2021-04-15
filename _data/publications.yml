@@ -1,5 +1,5 @@
 
-- name: 2021
+- year: 2021
 
 - name: Weakly Supervised Instance Segmentation by Deep Community Learning
   image: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=120&h=120&fit=crop
@@ -7,7 +7,7 @@
   conference: > 
     **WACV 2021**
 
-- name: 2018
+- year: 2018
  
 - name: Forget & Diversify; Regularized Refinement for Weakly Supervised Object Detection
   image: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=120&h=120&fit=crop
@@ -23,7 +23,7 @@
     **ECCV 2018** [paper] [code] [project page]
 
 
-- name: 2017
+- year: 2017
  
 
 - name: Multi-Object Tracking with Quadruplet Convolutional Neural Network
@@ -39,7 +39,7 @@
   conference: >
     **CVPR 2017** [paper]  
 
-- name: 2015
+- year: 2015
 
 
 - name: Tracking-by-Segmentation with Online Gradient Boosting Decision Tree
@@ -48,7 +48,7 @@
   conference: >
     **ICCV 2015** [paper] [project page]  
 
-- name: 2014
+- year: 2014
  
 
 - name: Object Localization based on Structural SVM using Privileged Information
@@ -57,7 +57,7 @@
   conference: >
     **NIPS 2014** [paper]  
   
-- name: 2013
+- year: 2013
   
 - name: Real-Time Human Tracking with Detection Feedback
   image: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=120&h=120&fit=crop
@@ -65,7 +65,7 @@
   conference: >
     **Journal of KIISE: Software and Applications, Vol. 40(12), 859-868, 2013**  
   
-- name: 2011
+- year: 2011
  
 
 - name: Dynamic Resource Allocation by Ranking SVM for Particle Filter Tracking
@@ -73,7 +73,7 @@
   conference: >
     **BMVC 2011** [paper]
  
-- name: 2010 
+- year: 2010 
  
 - name: Stitching of Microscopic Images for Quantifying Neuronal Growth and Spine Plasticity
   author: Soo-Min Song, Jeany Son, Myoung-Hee Kim
@@ -85,7 +85,7 @@
   conference: >
     **Journal of Microscopy, Vol.241, No.3, 2010 (SCI IF:2.136)**
 
-- name: 2009
+- year: 2009
 
 - name: Dendritic Spine Detection using Tree-like Structure of Neurons
   author: Jeany Son, Soo-min Song, Myoung-Hee Kim
