@@ -3,8 +3,7 @@
 - name: Weakly Supervised Instance Segmentation by Deep Community Learning
   image: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=120&h=120&fit=crop
   author: >
-         Jaedong Hwang, Seohyun Kim, Jeany Son, Bohyung Han. 
-           
+         Jaedong Hwang, Seohyun Kim, Jeany Son, Bohyung Han.              
          **WACV 2021**
 
   
