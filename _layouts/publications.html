@@ -10,6 +10,7 @@ description: Template for publications page
   <div class="media paper">
     {% if paper.year %}
       <p stype="line-height:110%;margin-bottom:0.5em"><font color='grey'>{{ paper.year }}</font></p>
+    {% endif %}
     <img class="mr-3" src="{{ paper.image | relative_url }}">
     <div class="media-body">
       {{ paper.name }}
