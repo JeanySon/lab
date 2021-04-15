@@ -13,16 +13,17 @@
               </a>
             </li>
           {% endif %}
-          <div class="small mt-2">
-            {% if site.author %}
-              <p>© {{ site.author }}</p>
-            {% endif %}
-            {% if site.data.footer.license %}
-              {{ site.data.footer.license | markdownify }}
-            {% endif %}
-          </div>
-      
         </ul>
+        <div class="small mt-2">
+          {% if site.author %}
+            <p>© {{ site.author }}</p>
+          {% endif %}
+          {% if site.data.footer.license %}
+            {{ site.data.footer.license | markdownify }}
+          {% endif %}
+        </div>
+
+        
       </div>
 
     </div>    
