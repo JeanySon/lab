@@ -3,6 +3,13 @@ layout: default
 description: Template for publications page
 ---
 
+<style>
+img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
+
 {{ content }}
 
 {% for paper in site.data.publications %}
@@ -11,7 +18,7 @@ description: Template for publications page
     {% if paper.year %}
       <p stype="line-height:110%;margin-bottom:0.5em"><font color='grey'>{{ paper.year }}</font></p>
     {% endif %}
-    <img class="mr-3" src="{{ paper.image | relative_url }}">
+    <img class="mr-3" height="150" width="150" src="{{ paper.image | relative_url }}">
     <div class="media-body">
       {{ paper.name }}
       <br>           
