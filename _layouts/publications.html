@@ -6,7 +6,7 @@ description: Template for publications page
 <style>
 img {
   max-width: 100%;
-  height: auto;
+  height: 150px;
 }
 </style>
 
@@ -19,9 +19,7 @@ img {
       <p stype="line-height:110%;margin-bottom:0.5em"><font color='grey'>{{ paper.year }}</font></p>
     {% endif %}
     {% if paper.image %}
-    <div style="height: 150px; width: 150px; vertical-align:middle; text-align:center">
-      <img class="mr-3" height="150" width="150" src="{{ paper.image | relative_url }}">
-    </div>
+    <img class="mr-3" height="150px" width="150px" src="{{ paper.image | relative_url }}">
     {% endif %}
     <div class="media-body">
       {{ paper.name }}
