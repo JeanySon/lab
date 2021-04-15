@@ -13,58 +13,19 @@
               </a>
             </li>
           {% endif %}
-
-          {% if site.twitter_username %}
-            <li class="list-inline-item">
-              <a href="https://twitter.com/{{ site.twitter_username }}">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
-
-          {% if site.github_username %}
-            <li class="list-inline-item">
-              <a href="https://github.com/{{ site.github_username }}">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          {% endif %}
+          <div class="small mt-2">
+            {% if site.author %}
+              <p>© {{ site.author }}</p>
+            {% endif %}
+            {% if site.data.footer.license %}
+              {{ site.data.footer.license | markdownify }}
+            {% endif %}
+          </div>
+      
         </ul>
       </div>
 
-      {% for col in site.data.footer.columns %}
-      <div class="col-lg">
-        {{ col.description | markdownify }}
-
-        {% if col.links %}
-          <ul class="fa-ul">
-          {% for item in col.links %}
-            <li>
-              <i class="fa-li fa fa-chevron-circle-right"></i>
-              <a href="{{ item.href | relative_url}}" {% if item.new_window %}target="_blank"{% endif %}>{{ item.text }}</a>
-            </li>
-          {% endfor %}
-          </ul>
-        {% endif %}
-
-      </div>
-      {% endfor %}
-    </div>
-
-    <div class="small mt-2">
-      {% if site.author %}
-        <p>© {{ site.author }}</p>
-      {% endif %}
-      {% if site.data.footer.license %}
-        {{ site.data.footer.license | markdownify }}
-      {% endif %}
-    </div>
+    </div>    
   </div>
 </footer>
 
