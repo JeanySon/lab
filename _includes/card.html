@@ -1,3 +1,9 @@
+<style>
+img {
+  max-height: 100;
+  width: auto;
+}
+</style>
 
 <div class="card" data-categories="{% for category in post.categories %}{{ category | downcase | strip }}|{% endfor %}">
   <a href="{{ post.url | relative_url }}">
