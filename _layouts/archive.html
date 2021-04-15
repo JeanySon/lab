@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 description: Template for a list of posts, with full width
 remarks: See also page.layout == 'archive' in footer.html
 ---
@@ -14,7 +14,7 @@ remarks: See also page.layout == 'archive' in footer.html
 
 <div class="row cards">
   {% for post in site.posts %}
-  <div class="col-md col-lg">
+  <div class="col-md-4 col-lg-4">
     {% include card.html %}
   </div>
   {% endfor %}
