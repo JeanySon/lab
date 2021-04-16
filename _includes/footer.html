@@ -1,27 +1,30 @@
 <footer>
   <div class="container">
     <div class="row">
-      
-      <div class="small mt-2">
-        {% if site.author %}
-          <p>© {{ site.author }}</p>
-        {% endif %}
-        {% if site.data.footer.license %}
-          {{ site.data.footer.license | markdownify }}
-        {% endif %}
+      <div class='col-10">
+        <div class="small mt-2">
+          {% if site.author %}
+            <p>© {{ site.author }}</p>
+          {% endif %}
+          {% if site.data.footer.license %}
+            {{ site.data.footer.license | markdownify }}
+          {% endif %}
+        </div>
       </div>
-      <ul class="list-inline" float="right">
-        {% if site.email %}
-          <li class="list-inline-item">
-            <a href="mailto:{{ site.email }}">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-        {% endif %}
-      </ul>
+      <div class='col-2">            
+        <ul class="list-inline" float="right">
+          {% if site.email %}
+            <li class="list-inline-item">
+              <a href="mailto:{{ site.email }}">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          {% endif %}
+        </ul>
+      </div>
     </div>
   </div>
 </footer>
