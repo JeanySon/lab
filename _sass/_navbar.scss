@@ -3,6 +3,7 @@
 .navbar {
   background-color: white!important;
   border-bottom: 1px solid $gray-200;
+  position: fixed;
 
   .navbar-brand {
     font-weight: bold;
