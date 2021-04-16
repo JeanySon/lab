@@ -4,6 +4,8 @@
   background-color: white!important;
   border-bottom: 1px solid $gray-200;
   position: fixed;
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
 
   .navbar-brand {
     font-weight: bold;
