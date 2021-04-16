@@ -1,7 +1,16 @@
 <footer>
   <div class="container">
     <div class="row">
-      <ul class="list-inline">
+      
+      <div class="small mt-2">
+        {% if site.author %}
+          <p>© {{ site.author }}</p>
+        {% endif %}
+        {% if site.data.footer.license %}
+          {{ site.data.footer.license | markdownify }}
+        {% endif %}
+      </div>
+      <ul class="list-inline" float="right">
         {% if site.email %}
           <li class="list-inline-item">
             <a href="mailto:{{ site.email }}">
@@ -13,14 +22,6 @@
           </li>
         {% endif %}
       </ul>
-      <div class="small mt-2">
-        {% if site.author %}
-          <p>© {{ site.author }}</p>
-        {% endif %}
-        {% if site.data.footer.license %}
-          {{ site.data.footer.license | markdownify }}
-        {% endif %}
-      </div>
     </div>
   </div>
 </footer>
