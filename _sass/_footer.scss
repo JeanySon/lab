@@ -6,6 +6,8 @@ body > footer {
   color: lighten(theme-color("footer"), 50);
   font-size: 0.9rem;
   padding: $grid-gutter-width / 2 0;
+  position: fixed;
+  bottom: 0;
 
   .container {
     margin-top: 0.1rem; //1rem;
