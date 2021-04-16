@@ -8,7 +8,7 @@ baseurl: "/lab"                 # Only required if your site is on a subdomain e
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
 # SOCIAL PROFILES
-email: jeany@gist.ac.kr.                 # Social icon in footer
+#email: jeany@gist.ac.kr.                 # Social icon in footer
 #twitter_username: peterdesmet           # Social icon in footer
 #github_username: peterdesmet            # Social icon in footer
 
