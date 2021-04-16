@@ -2,6 +2,6 @@
 
 body > main {
   //margin-top: 54px;
-  min-height: calc(100vh); // Viewport height minus medium screen navbar height, to push footer to bottom
+  min-height: calc(100vh-50px); // Viewport height minus medium screen navbar height, to push footer to bottom
   // padding-bottom: $grid-gutter-width; // Don't stick to footer
 }
