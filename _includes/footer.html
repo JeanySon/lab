@@ -14,19 +14,17 @@
             </li>
           {% endif %}
         </ul>
-        <div class="small mt-2">
-          {% if site.author %}
-            <p>© {{ site.author }}</p>
-          {% endif %}
-          {% if site.data.footer.license %}
-            {{ site.data.footer.license | markdownify }}
-          {% endif %}
-        </div>
-
-        
       </div>
+    </div>
 
-    </div>    
+    <div class="small mt-2">
+      {% if site.author %}
+        <p>© {{ site.author }}</p>
+      {% endif %}
+      {% if site.data.footer.license %}
+        {{ site.data.footer.license | markdownify }}
+      {% endif %}
+    </div>
   </div>
 </footer>
 
@@ -54,7 +52,7 @@
       const category = urlParams.get("category"); // Will return 1st category value + decode URI
       const cleanCategory = $.trim(category.toLowerCase()); // Create category as written in .card data-categories
       
-      $(".card").each(function() {
+      $(".card").each(function() {
         const cardCategories = $(this).data("categories").split("|");
         // Hide card if it does not contain the selected category
         if (!cardCategories.includes(cleanCategory)) {
