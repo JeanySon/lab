@@ -1,7 +1,7 @@
 ---
 layout: home
-title: VCL Lab
-description: GIST Visual Computing & Learning Laboratory
+title: VLR Lab
+description: GIST Visual Learning & Recognition Laboratory
 background: /assets/img/flower2.jpg
 permalink: /
 ---
