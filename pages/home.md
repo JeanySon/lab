@@ -1,7 +1,7 @@
 ---
 layout: home
-title: VL Lab
-description: GIST Vision & Learning Laboratory
+title: VLU Lab
+description: GIST Visual Learning & Understanding Laboratory
 background: /assets/img/flower2.jpg
 permalink: /
 ---
