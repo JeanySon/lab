@@ -1,7 +1,7 @@
 ---
 layout: home
-title: LVR Lab
-description: GIST Learning & Visual Recognition Laboratory
+title: VRL Lab
+description: GIST Visual Recognition and Learning Laboratory
 background: /assets/img/flower2.jpg
 permalink: /
 ---
