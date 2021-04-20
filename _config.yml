@@ -1,11 +1,12 @@
 # SITE SETTINGS
-title: VRL Lab.                       # Title in top navigation bar (navbar) and <head>
+title: VRL Lab                       # Title in top navigation bar (navbar) and <head>
 description: GIST Visual Recognition and Learning Lab.             # Site description in <head>
 author: Jeany Son                       # Used for copyright statement in footer
 url: "https://jeanyson.github.io"  # No slash at the end
 baseurl: "/lab"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
+imlink: "https://ai.gist.ac.kr"
 
 # SOCIAL PROFILES
 #email: jeany@gist.ac.kr.                 # Social icon in footer
