@@ -1,9 +1,11 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light" id="main-nav">
   <div class="container">
-    <a class="navbar-brand d-flex align-items-center" href="{{'/' | relative_url }}">
+    <a class="navbar-brand d-flex align-items-center" href="{{'https://ai.gist.ac.kr' | relative_url }}">
       {% if site.logo %}
         <img src="{{ site.logo | relative_url }}" class="mr-2">
       {% endif %}
+    </a>
+    <a class="navbar-brand d-flex align-items-center" href="{{'/' | relative_url }}">
       {{ site.title }}
     </a>
     {% if site.data.navigation %}
