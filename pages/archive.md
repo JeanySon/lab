@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: News
-description: News & Announcements
+# description: News & Announcements
 background: /assets/img/beach2.jpg
 permalink: /blog/
 ---
