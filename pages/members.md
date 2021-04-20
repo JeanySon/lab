@@ -1,6 +1,6 @@
 ---
 layout: members
-description: Members
+title: Members
 # description: Who we are
 background: /assets/img/flower4.jpg
 permalink: /members/
