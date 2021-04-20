@@ -22,8 +22,9 @@ img {
     <img class="mr-3" height="150px" width="150px" src="{{ paper.image | relative_url }}">
     {% endif %}
     <div class="media-body">
+     <p style="line-height:120%;margin-bottom:0.2em" >
       {{ paper.name }}
-      <br>           
+     </p>        
       {% if paper.author %}
         <small>
           <p style="line-height:110%;margin-bottom:0.2em" >
