@@ -38,10 +38,10 @@
 
     // Reduce font-size on smaller screens, except on homepage
     @include media-breakpoint-down(md) {
-      font-size: $jumbotron-h1 - 2;
+      font-size: $jumbotron-h1 - 1;
 
       &.home {
-        font-size: $jumbotron-h1 - 2;
+        font-size: $jumbotron-h1 - 1;
       }
     }
   }
