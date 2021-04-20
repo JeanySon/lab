@@ -1,7 +1,7 @@
 ---
 layout: contact
-title: Contact
-description: Join us
+description: Contact
+# description: Join us
 background: /assets/img/gistsky.jpg
 permalink: /contact/
 ---
