@@ -1,4 +1,5 @@
 # Project team members listed below will appear on the /team page
+- position: Professor
 
 - name: Jeany Son 
   role: Assistant Professor # Will appear next to name
@@ -9,6 +10,7 @@
   email: jeany@gist.ac.kr
   googlescholar: scholar.google.com/citations?user=JVliNv8AAAAJ
   
+- position: Graduate students
 
 - name: New member
   role: Graduate Student # Will appear next to name
