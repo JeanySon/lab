@@ -34,14 +34,14 @@
   h1 {
     $jumbotron-h1: 2rem; //3.5rem
     font-size: $jumbotron-h1;
-    font-weight: 500; //800
+    font-weight: 300; //800
 
     // Reduce font-size on smaller screens, except on homepage
     @include media-breakpoint-down(md) {
-      font-size: $jumbotron-h1 - 0.8;
+      font-size: $jumbotron-h1 * 0.6;
 
       &.home {
-        font-size: $jumbotron-h1 - 0.8;
+        font-size: $jumbotron-h1 * 0.6;
       }
     }
   }
