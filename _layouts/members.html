@@ -9,7 +9,7 @@ description: Template for members page
   <div class="media team-member">
     <img class="mr-3" src="{{ member.image | relative_url }}">
     <div class="media-body">
-      <h5 id="{{ member.name | strip | url_encode }}">
+      <h5 id="{{ member.name }}">
         {{ member.name }}
         {% if member.role %}
         <small class="text-muted">| {{ member.role }}</small>
