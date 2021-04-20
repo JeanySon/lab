@@ -9,12 +9,13 @@ description: Template for members page
   <div class="media team-member">
     <img class="mr-3" src="{{ member.image | relative_url }}">
     <div class="media-body">
-      <b>
+      <big><b>
         {{ member.name }}
       </b>
         {% if member.role %}
         <small class="text-muted">| {{ member.role }}</small>
         {% endif %}
+      </big>
       
 
       {{ member.description | markdownify }}
