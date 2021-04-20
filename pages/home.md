@@ -1,6 +1,6 @@
 ---
 layout: home
-// title: VRL Lab
+# title: VRL Lab
 description: GIST Visual Recognition and Learning Laboratory
 background: /assets/img/flower2.jpg
 permalink: /
