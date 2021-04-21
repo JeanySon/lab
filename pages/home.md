@@ -1,7 +1,7 @@
 ---
 layout: home
-title: ViRL Lab
-description: GIST Visual Recognition and Learning Laboratory
+title: ViRL@GIST
+description: GIST **Vi**sual **R**ecognition and **L**earning Laboratory
 background: /assets/img/flower2.jpg
 permalink: /
 ---
