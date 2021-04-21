@@ -3,10 +3,24 @@ layout: default
 description: Template for members page
 ---
 
+<style>
+fieldset {
+	border-color: grey;
+	border-width: 1px 0 0 0;
+}
+legend {
+	text-align: center;				
+}
+</style>
+
 {% for member in site.data.members %}
   <div class="media team-member">
    {% if member.position %} 
-    <font color='grey'>{{ member.position }} </font>
+
+    <fieldset>
+      <legend><font color='grey'>{{ member.position }} </font></legend>
+    </fieldset>
+    
    {% else %}
     {% if member.image %} 
       <img class="mr-3" src="{{ member.image | relative_url }}">
