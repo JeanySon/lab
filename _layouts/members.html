@@ -9,7 +9,7 @@ description: Template for members page
 <link rel="stylesheet" href="assets/theme/css/academicons.min.css">
 
 {% for member in site.data.members %}
- {% if member.position %}
+ {% if member.position %} <br>
    <p class="text-muted"> {{ member.position }} </p>
  {% else %}
     <div class="media team-member">
