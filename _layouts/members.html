@@ -12,6 +12,7 @@ description: Template for members page
   <div class="media team-member">
     {% if member.position %}
       <small class="text-muted"> {{ member.position }} </small>
+    {% endif %}
     {% if member.image %} 
       <img class="mr-3" src="{{ member.image | relative_url }}">
     {% endif %}
