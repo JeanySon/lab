@@ -4,10 +4,10 @@ description: Template for members page
 ---
 
 {% for member in site.data.members %}
- {% if member.position %} <br>
-   <p class="text-muted"> {{ member.position }} </p>
- {% else %}
-    <div class="media team-member">
+  <div class="media team-member">
+   {% if member.position %} 
+    <p class="text-muted"> {{ member.position }} </p>
+   {% else %}
     {% if member.image %} 
       <img class="mr-3" src="{{ member.image | relative_url }}">
     {% endif %}
@@ -51,8 +51,7 @@ description: Template for members page
         {% endif %}
       </ul>
     </div>
-    
+  {% endif %}    
   </div>
-{% endif %}
 {% endfor %}
 
