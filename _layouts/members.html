@@ -6,9 +6,7 @@ description: Template for members page
 {% for member in site.data.members %}
   <div class="media team-member">
    {% if member.position %} 
-
-	  <big><font color='grey'><u>{{ member.position }} </u></font></big>
-    
+     <font color='grey'><u>{{ member.position }}</font>    
    {% else %}
     {% if member.image %} 
       <img class="mr-3" src="{{ member.image | relative_url }}">
