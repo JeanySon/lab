@@ -10,7 +10,9 @@ description: Template for members page
 
 {% for member in site.data.members %}
   <div class="media team-member">
-    <img class="mr-3" src="{{ member.image | relative_url }}">
+    {% if member.image %} 
+      <img class="mr-3" src="{{ member.image | relative_url }}">
+    {% endif %}
     <div class="media-body">
       <p stype="margin-bottom:0.5em">
       <big><b>
