@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ViRL@GIST
+title: ViRL
 description: GIST **Vi**sual **R**ecognition and **L**earning Laboratory
 background: /assets/img/flower2.jpg
 permalink: /
