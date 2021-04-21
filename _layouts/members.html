@@ -5,6 +5,9 @@ description: Template for members page
 
 {{ content }}
 
+<!-- Plugins CSS -->
+<link rel="stylesheet" href="assets/theme/css/academicons.min.css">
+
 {% for member in site.data.members %}
   <div class="media team-member">
     <img class="mr-3" src="{{ member.image | relative_url }}">
