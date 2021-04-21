@@ -1,5 +1,5 @@
 # SITE SETTINGS
-title: ViRL Lab                       # Title in top navigation bar (navbar) and <head>
+title: ViRL@GIST                       # Title in top navigation bar (navbar) and <head>
 description: GIST Visual Recognition and Learning Lab.             # Site description in <head>
 author: Jeany Son                       # Used for copyright statement in footer
 url: "https://jeanyson.github.io"  # No slash at the end
