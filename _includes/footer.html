@@ -3,12 +3,14 @@
     <div class="row">
       <div class="col">
         <div class="small mt-2">
+          <p stype="line-height:110%">
           {% if site.author %}
             <p>© {{ site.author }}</p>
           {% endif %}
           {% if site.data.footer.license %}
             {{ site.data.footer.license | markdownify }}
           {% endif %}
+          </p>
         </div>
       </div>
     </div>
