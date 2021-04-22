@@ -15,9 +15,11 @@
         {% for item in site.data.navigation %}
           {% if item.menu %}
             <li class="nav-item dropdown">
+               &nbsp&nbsp
               <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">
-                  &nbsp&nbsp{{ item.text }}&nbsp&nbsp
+                 {{ item.text }}
               </a>
+               &nbsp&nbsp
               <div class="dropdown-menu">
               {% for subitem in item.menu %}
                 {% if subitem.href %}
@@ -31,7 +33,7 @@
               </div>
           {% else %}
             <li class="navbar-item">
-              <a class="nav-link{% if item.href == page.url %} active{% endif %}" href="{{ item.href | relative_url }}" {% if item.new_window %}target="_blank"{% endif %}> &nbsp &nbsp{{ item.text }}&nbsp &nbsp</a>
+               &nbsp&nbsp <a class="nav-link{% if item.href == page.url %} active{% endif %}" href="{{ item.href | relative_url }}" {% if item.new_window %}target="_blank"{% endif %}>{{ item.text }}</a> &nbsp&nbsp
             </li>
           {% endif %}
         {% endfor %}
