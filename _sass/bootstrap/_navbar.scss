@@ -42,7 +42,7 @@
 .navbar-brand {
   display: inline-block;
   padding-top: $navbar-brand-padding-y * 0.4;
-  padding-bottom: $navbar-brand-padding-y * 0.4;
+  padding-bottom: $navbar-brand-padding-y * 0.3;
   margin-right: $navbar-padding-x;
   @include font-size($navbar-brand-font-size);
   line-height: inherit;
