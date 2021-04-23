@@ -83,8 +83,8 @@
 
 .navbar-text {
   display: inline-block;
-  padding-top: $nav-link-padding-y;
-  padding-bottom: $nav-link-padding-y;
+  padding-top: $nav-link-padding-y*0.5;
+  padding-bottom: $nav-link-padding-y*0.5;
 }
 
 
