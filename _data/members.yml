@@ -9,9 +9,62 @@
   homepage: jeanyson.github.io
   email: jeany@gist.ac.kr
   googlescholar: scholar.google.com/citations?user=JVliNv8AAAAJ
+ 
+######
   
 - position: Graduate students
 
+######
+- name: Jinsoo Park
+  role: M.S./Ph.D. Integrated 
+  image: assets/img/student_grey.png # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
+  # homepage:  
+  email: renew1614@gm.gist.ac.kr
+######
+- name: Yeongwhan Song 
+  role: M.S./Ph.D. Integrated  # Will appear next to name
+  image: assets/img/student_grey.png # Can be external link
+  # description: > # Can be Markdown
+  #   **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
+  # homepage: 
+  email: yeounghwan.song@gm.gist.ac.kr
+######
+- name: Seonghoon Yu
+  role: M.S./Ph.D. Integrated  # Will appear next to name
+  image: assets/img/students/seonghoon.png # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
+  homepage: https://deep-learning-study.tistory.com/ 
+  github: https://github.com/Seonghoon-Yu/
+  email: seonghoon@gm.gist.ac.kr
+######  
+- name: Jinyeob Choi
+  role: M.S./Ph.D. Integrated  # Will appear next to name
+  image: assets/img/students/jiny.png # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
+  # homepage: 
+  email: jinychoi@gm.gist.ac.kr
+######
+- name: Chanhui Lee
+  role: B.S.   # Will appear next to name
+  image: assets/img/student_grey.png # Can be external link
+  # description: > # Can be Markdown
+  #   **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
+  # homepage: 
+  email: as584868@gist.ac.kr
+######
+- name: Minjae Jung
+  role: B.S. # Will appear next to name
+  image: assets/img/student_grey.png # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
+  # homepage: 
+  email: minjaetidtid@gm.gist.ac.kr
+
+######
 - name: New member
   role: Graduate Student # Will appear next to name
   image: assets/img/student_grey.png # Can be external link
