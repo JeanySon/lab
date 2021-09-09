@@ -33,7 +33,7 @@
 ######
 - name: Seonghoon Yu
   role: M.S./Ph.D. Integrated  # Will appear next to name
-  image: assets/img/students/seonghoon.png # Can be external link
+  image: assets/img/seonghoon.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   homepage: https://deep-learning-study.tistory.com/ 
@@ -42,7 +42,7 @@
 ######  
 - name: Jinyeob Choi
   role: M.S./Ph.D. Integrated  # Will appear next to name
-  image: assets/img/students/jiny.png # Can be external link
+  image: assets/img/jinyeob.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
