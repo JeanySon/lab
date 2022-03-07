@@ -1,7 +1,7 @@
 - year: 2022
 
 - name: Contrastive Learning for Space-Time Correspondences via Self-cycle Consistency
-  image: assets/img/2022contrastive.jpg
+  image: assets/img/2022contrastive.png
   author: Jeany Son
   conference: > 
     **CVPR 2022**
