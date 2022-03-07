@@ -72,9 +72,9 @@
 
   
 
-######
-- name: New member
-  role: Graduate Student # Will appear next to name
-  image: assets/img/student_grey.png # Can be external link
-  description: > 
-    We're looking forward **strong** and **motivated** graduate students. Please contact the [faculty](mailto:jeany@gist.ac.kr) if you are interested in getting involved.
+# ######
+# - name: New member
+#   role: Graduate Student # Will appear next to name
+#   image: assets/img/student_grey.png # Can be external link
+#   description: > 
+#     We're looking forward **strong** and **motivated** graduate students. Please contact the [faculty](mailto:jeany@gist.ac.kr) if you are interested in getting involved.
