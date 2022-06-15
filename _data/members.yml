@@ -17,14 +17,14 @@
 ######
 - name: Byeonghwi Kim
   role: M.S. (Advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
-  image: assets/img/student_grey.png # Can be external link  
+  image: assets/img/byeonghwi.jpg # Can be external link  
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
   email: byeonghwikim@gmail.com
 ######
 - name: Hyunseo Koh
   role: M.S. (Advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
-  image: assets/img/student_grey.png # Can be external link
+  image: assets/img/hyunseo.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
@@ -32,7 +32,7 @@
 ######
 - name: Jihun Kim
   role: M.S. (Advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
-  image: assets/img/student_grey.png # Can be external link
+  image: assets/img/jihunkim.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
@@ -40,7 +40,7 @@
 ######
 - name: Daechul Ahn
   role: M.S. (Advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
-  image: assets/img/student_grey.png # Can be external link
+  image: assets/img/daechulahn.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
@@ -48,7 +48,7 @@
 ######
 - name: Jimin Sohn
   role: M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
-  image: assets/img/student_grey.png # Can be external link
+  image: assets/img/jiminsohn.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
@@ -89,7 +89,7 @@
 ######
 - name: HyungRok Jung
   role: M.S./Ph.D. Integrated 
-  image: assets/img/student_grey.png # Can be external link
+  image: assets/img/hyungrokjung.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
@@ -97,7 +97,7 @@
 ######
 - name: Dongkyu Choi
   role: M.S./Ph.D. Integrated 
-  image: assets/img/student_grey.png # Can be external link
+  image: assets/img/dongkyuchoi.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
@@ -134,7 +134,7 @@
 ######
 - name: Daneul Kim
   role: B.S. (Advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
-  image: assets/img/student_grey.png # Can be external link
+  image: assets/img/daneulkim.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
@@ -142,7 +142,7 @@
 ######
 - name: Yu Yeong Kim
   role: B.S. (Advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
-  image: assets/img/student_grey.png # Can be external link
+  image: assets/img/yuyeongkim.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
@@ -150,7 +150,7 @@
 ######
 - name: Yura Choi
   role: B.S. (Advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
-  image: assets/img/student_grey.png # Can be external link
+  image: assets/img/yurachoi.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
