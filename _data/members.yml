@@ -23,7 +23,7 @@
   email: byeonghwikim@gmail.com
 ######
 - name: Hyunseo Koh
-  role: M.S. | Advised by Prof. Jonghyun Choi (Yonsei Univ.)
+  role: M.S. (Advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
   image: assets/img/student_grey.png # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
@@ -31,7 +31,7 @@
   email: hyunseo8157@gist.ac.kr
 ######
 - name: Jihun Kim
-  role: M.S. | Advised by Prof. Jonghyun Choi (Yonsei Univ.)
+  role: M.S. (Advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
   image: assets/img/student_grey.png # Can be external link
   description: > # Can be Markdown
     Advised by Prof. Jonghyun Choi (Yonsei University)
@@ -41,7 +41,7 @@
   email: caisarl76@gmail.com
 ######
 - name: Daechul Ahn
-  role: M.S. | Advised by Prof. Jonghyun Choi (Yonsei Univ.)
+  role: M.S. (Advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
   image: assets/img/student_grey.png # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
@@ -49,7 +49,7 @@
   email: daechulahn@gm.gist.ac.kr
 ######
 - name: Jimin Sohn
-  role: M.S. | Co-advised by Prof. Jonghyun Choi (Yonsei Univ.)
+  role: M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
   image: assets/img/student_grey.png # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
@@ -135,7 +135,7 @@
   email: wonsicjang@gm.gist.ac.kr
 ######
 - name: Daneul Kim
-  role: B.S. | Advised by Prof. Jonghyun Choi (Yonsei Univ.)# Will appear next to name
+  role: B.S. (Advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
   image: assets/img/student_grey.png # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
@@ -143,7 +143,7 @@
   email: flytodk98@gist.ac.kr
 ######
 - name: Yu Yeong Kim
-  role: B.S. | Advised by Prof. Jonghyun Choi (Yonsei Univ.)# Will appear next to name
+  role: B.S. (Advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
   image: assets/img/student_grey.png # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
@@ -151,7 +151,7 @@
   email: uyeongkim@gm.gist.ac.kr
 ######
 - name: Yura Choi
-  role: B.S. | Advised by Prof. Jonghyun Choi (Yonsei Univ.)# Will appear next to name
+  role: B.S. (Advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
   image: assets/img/student_grey.png # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
