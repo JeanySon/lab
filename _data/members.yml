@@ -15,6 +15,55 @@
 - position: Graduate students
 
 ######
+- name: Byeonghwi Kim
+  role: M.S.
+  image: assets/img/student_grey.png # Can be external link
+  description: > # Can be Markdown
+    Advised by Prof. Jonghyun Choi (Yonsei University)
+  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
+  # homepage:  
+  email: byeonghwikim@gmail.com
+######
+- name: Hyunseo Koh
+  role: M.S.
+  image: assets/img/student_grey.png # Can be external link
+  description: > # Can be Markdown
+    Advised by Prof. Jonghyun Choi (Yonsei University)
+  # description: > # Can be Markdown
+  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
+  # homepage:  
+  email: hyunseo8157@gist.ac.kr
+######
+- name: Jihun Kim
+  role: M.S.
+  image: assets/img/student_grey.png # Can be external link
+  description: > # Can be Markdown
+    Advised by Prof. Jonghyun Choi (Yonsei University)
+  # description: > # Can be Markdown
+  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
+  # homepage:  
+  email: caisarl76@gmail.com
+######
+- name: Daechul Ahn
+  role: M.S.
+  image: assets/img/student_grey.png # Can be external link
+  description: > # Can be Markdown
+    Advised by Prof. Jonghyun Choi (Yonsei University)
+  # description: > # Can be Markdown
+  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
+  # homepage:  
+  email: daechulahn@gm.gist.ac.kr
+######
+- name: Jimin Sohn
+  role: M.S.
+  image: assets/img/student_grey.png # Can be external link
+  description: > # Can be Markdown
+    Co-advised by Prof. Jonghyun Choi (Yonsei University)
+  # description: > # Can be Markdown
+  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
+  # homepage:  
+  email: estelle26598@gm.gist.ac.kr
+######
 - name: Jinsoo Park
   role: M.S./Ph.D. Integrated 
   image: assets/img/student_grey.png # Can be external link
@@ -47,7 +96,22 @@
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
   email: jinychoi@gm.gist.ac.kr
-  
+######
+- name: HyungRok Jung
+  role: M.S./Ph.D. Integrated 
+  image: assets/img/student_grey.png # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
+  # homepage:  
+  email: jhrock2001@gist.ac.kr
+######
+- name: Dongkyu Choi
+  role: M.S./Ph.D. Integrated 
+  image: assets/img/student_grey.png # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
+  # homepage:  
+  email: donggyuchoi@gist.ac.kr
    
 ######
   
@@ -69,6 +133,14 @@
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
   email: minjaetidtid@gm.gist.ac.kr
+######
+- name: Wonsic Jang
+  role: B.S. # Will appear next to name
+  image: assets/img/minjae.png # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
+  # homepage: 
+  email: wonsicjang@gm.gist.ac.kr
 
   
 
