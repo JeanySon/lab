@@ -16,26 +16,22 @@
 
 ######
 - name: Byeonghwi Kim
-  role: M.S.
-  image: assets/img/student_grey.png # Can be external link
-  description: > # Can be Markdown
-   <span style="font-size:50%">Advised by Prof. Jonghyun Choi (Yonsei University)</span>   
+  role: M.S. | Advised by Prof. Jonghyun Choi (Yonsei Univ.)
+  image: assets/img/student_grey.png # Can be external link  
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
   email: byeonghwikim@gmail.com
 ######
 - name: Hyunseo Koh
-  role: M.S.
+  role: M.S. | Advised by Prof. Jonghyun Choi (Yonsei Univ.)
   image: assets/img/student_grey.png # Can be external link
-  description: > # Can be Markdown
-    Advised by Prof. Jonghyun Choi (Yonsei University)
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
   email: hyunseo8157@gist.ac.kr
 ######
 - name: Jihun Kim
-  role: M.S.
+  role: M.S. | Advised by Prof. Jonghyun Choi (Yonsei Univ.)
   image: assets/img/student_grey.png # Can be external link
   description: > # Can be Markdown
     Advised by Prof. Jonghyun Choi (Yonsei University)
@@ -45,20 +41,16 @@
   email: caisarl76@gmail.com
 ######
 - name: Daechul Ahn
-  role: M.S.
+  role: M.S. | Advised by Prof. Jonghyun Choi (Yonsei Univ.)
   image: assets/img/student_grey.png # Can be external link
-  description: > # Can be Markdown
-    Advised by Prof. Jonghyun Choi (Yonsei University)
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
   email: daechulahn@gm.gist.ac.kr
 ######
 - name: Jimin Sohn
-  role: M.S.
+  role: M.S. | Co-advised by Prof. Jonghyun Choi (Yonsei Univ.)
   image: assets/img/student_grey.png # Can be external link
-  description: > # Can be Markdown
-    Co-advised by Prof. Jonghyun Choi (Yonsei University)
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
@@ -143,7 +135,7 @@
   email: wonsicjang@gm.gist.ac.kr
 ######
 - name: Daneul Kim
-  role: B.S. # Will appear next to name
+  role: B.S. | Advised by Prof. Jonghyun Choi (Yonsei Univ.)# Will appear next to name
   image: assets/img/student_grey.png # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
@@ -151,7 +143,7 @@
   email: flytodk98@gist.ac.kr
 ######
 - name: Yu Yeong Kim
-  role: B.S. # Will appear next to name
+  role: B.S. | Advised by Prof. Jonghyun Choi (Yonsei Univ.)# Will appear next to name
   image: assets/img/student_grey.png # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
@@ -159,7 +151,7 @@
   email: uyeongkim@gm.gist.ac.kr
 ######
 - name: Yura Choi
-  role: B.S. # Will appear next to name
+  role: B.S. | Advised by Prof. Jonghyun Choi (Yonsei Univ.)# Will appear next to name
   image: assets/img/student_grey.png # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
