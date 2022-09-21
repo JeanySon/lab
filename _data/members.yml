@@ -181,12 +181,12 @@
   role: B.S. # Will appear next to name
   image: assets/img/minjae.png # Can be external link
   #description: > # Can be Markdown
-  now: MS student @ POSTECH University
+  now: MS student @ POSTECH 
   # homepage: 
   email: minjaetidtid@gm.gist.ac.kr
 ######
 - name: Yura Choi 
-  role: B.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
+  role: B.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
   image: assets/img/yurachoi.jpg # Can be external link
   #description: > # Can be Markdown
   now: MS student @ Yonsei University
