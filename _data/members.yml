@@ -14,13 +14,7 @@
   
 - position: Graduate students
 
-######
-- name: Byeonghwi Kim
-  role: M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
-  image: assets/img/byeonghwi.jpg # Can be external link  
-  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
-  # homepage:  
-  email: byeonghwikim@gmail.com
+
 ######
 - name: Hyunseo Koh
   role: M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
@@ -37,14 +31,6 @@
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
   email: caisarl76@gmail.com
-######
-- name: Daechul Ahn
-  role: M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
-  image: assets/img/daechulahn.jpg # Can be external link
-  # description: > # Can be Markdown
-  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
-  # homepage:  
-  email: daechulahn@gm.gist.ac.kr
 ######
 - name: Jimin Sohn
   role: M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
@@ -116,14 +102,6 @@
   # homepage: 
   email: as584868@gist.ac.kr
 ######
-- name: Minjae Jeong
-  role: B.S. # Will appear next to name
-  image: assets/img/minjae.png # Can be external link
-  # description: > # Can be Markdown
-  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
-  # homepage: 
-  email: minjaetidtid@gm.gist.ac.kr
-######
 - name: Wonsic Jang
   role: B.S. # Will appear next to name
   image: assets/img/student_grey.png # Can be external link
@@ -147,6 +125,33 @@
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
   email: uyeongkim@gm.gist.ac.kr
+
+  
+- position: Alumni
+
+######
+- name: Byeonghwi Kim
+  role: M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
+  image: assets/img/byeonghwi.jpg # Can be external link  
+  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
+  # homepage:  
+  email: byeonghwikim@gmail.com
+######
+- name: Daechul Ahn
+  role: M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
+  image: assets/img/daechulahn.jpg # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
+  # homepage:  
+  email: daechulahn@gm.gist.ac.kr
+######
+- name: Minjae Jeong
+  role: B.S. # Will appear next to name
+  image: assets/img/minjae.png # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
+  # homepage: 
+  email: minjaetidtid@gm.gist.ac.kr
 ######
 - name: Yura Choi
   role: B.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
@@ -156,7 +161,6 @@
   # homepage: 
   email: yoorachoi@gm.gist.ac.kr
 
-  
 
 # ######
 # - name: New member
