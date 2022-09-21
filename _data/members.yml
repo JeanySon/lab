@@ -17,7 +17,7 @@
 
 ######
 - name: Hyunseo Koh
-  role: M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
+  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
   image: assets/img/hyunseo.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
@@ -25,7 +25,7 @@
   email: hyunseo8157@gist.ac.kr
 ######
 - name: Jihun Kim
-  role: M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
+  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
   image: assets/img/jihunkim.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
@@ -33,7 +33,7 @@
   email: caisarl76@gmail.com
 ######
 - name: Jimin Sohn
-  role: M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
+  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
   image: assets/img/jiminsohn.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
@@ -74,7 +74,7 @@
   email: jinychoi@gm.gist.ac.kr
 ######
 - name: HyungRok Jung
-  role: M.S./Ph.D. Integrated 
+  role: M.S./Ph.D. Integrated <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
   image: assets/img/hyungrokjung.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
@@ -127,7 +127,7 @@
   email: wonsicjang@gm.gist.ac.kr
 ######
 - name: Daneul Kim
-  role: B.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
+  role: B.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
   image: assets/img/daneulkim.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
@@ -135,7 +135,7 @@
   email: flytodk98@gist.ac.kr
 ######
 - name: Yu Yeong Kim
-  role: B.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
+  role: B.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
   image: assets/img/yuyeongkim.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
@@ -162,7 +162,7 @@
 
 ######
 - name: Byeonghwi Kim 
-  role: M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
+  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
   image: assets/img/byeonghwi.jpg # Can be external link  
   #description: >
   now: Ph.D student @ Yonsei University
@@ -170,7 +170,7 @@
   email: byeonghwikim@gmail.com
 ######
 - name: Daechul Ahn 
-  role: M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
+  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
   image: assets/img/daechulahn.jpg # Can be external link
   #description: > # Can be Markdown
   now: Ph.D student @ Yonsei University
