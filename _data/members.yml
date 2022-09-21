@@ -88,6 +88,22 @@
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
   email: donggyuchoi@gist.ac.kr
+######
+- name: Taeil Ha
+  role: M.S./Ph.D. Integrated 
+  image: assets/img/taeil.jpg # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
+  # homepage:  
+  email: bjjengineer@gm.gist.ac.kr
+######
+- name: Seokwoo Jang
+  role: M.S.
+  image: assets/img/seokwoo.png # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
+  # homepage:  
+  email: jangseokwoo@gm.gist.ac.kr
    
 ######
   
@@ -125,7 +141,22 @@
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
   email: uyeongkim@gm.gist.ac.kr
-
+######
+- name: Seunggyun Lim
+  role: B.S. 
+  image: assets/img/seunggyun.jpg # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
+  # homepage: 
+  email: sk000514@gist.ac.kr
+######
+- name: San Kim
+  role: B.S. 
+  image: assets/img/san.jpg # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
+  # homepage: 
+  email: kimtks456@gm.gist.ac.kr
   
 - position: Alumni
 
@@ -148,7 +179,7 @@
 ######
 - name: Minjae Jeong 
   role: B.S. # Will appear next to name
-  #image: assets/img/minjae.png # Can be external link
+  image: assets/img/minjae.png # Can be external link
   #description: > # Can be Markdown
   now: MS student @ POSTECH University
   # homepage: 
