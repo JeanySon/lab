@@ -50,10 +50,10 @@
 ######
 - name: Yeonghwan Song 
   role: M.S./Ph.D. Integrated  # Will appear next to name
-  image: assets/img/yeonghwan.jpg # Can be external link
+  image: assets/img/yeonghwan.JPG # Can be external link
   # description: > # Can be Markdown
   #   **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
-  # homepage: 
+  # homepage
   email: yeonghwan.song@gm.gist.ac.kr
 ######
 - name: Seonghoon Yu
