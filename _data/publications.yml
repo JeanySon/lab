@@ -1,7 +1,7 @@
 
 - year: 2023
 - name: Zero-shot Referring Image Segmentation with Global-Local Context Features
-  image: assets/img/2023ris.png
+  image: assets/img/2023ris.jpg
   author: Seonghoon Yu, Paul Hongsuck Seo, Jeany Son
   conference: > 
     **CVPR 2023**
