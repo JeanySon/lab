@@ -1,5 +1,12 @@
-- year: 2022
 
+- year: 2023
+- name: Zero-shot Referring Image Segmentation with Global-Local Context Features
+  image: assets/img/2023ris.png
+  author: Seonghoon Yu, Paul Hongsuck Seo, Jeany Son
+  conference: > 
+    **CVPR 2023**
+
+- year: 2022
 - name: Contrastive Learning for Space-Time Correspondences via Self-cycle Consistency
   image: assets/img/2022contrastive.png
   author: Jeany Son
