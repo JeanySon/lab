@@ -15,22 +15,7 @@
 - position: Graduate students
 
 
-######
-- name: Hyunseo Koh
-  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
-  image: assets/img/hyunseo.jpg # Can be external link
-  # description: > # Can be Markdown
-  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
-  # homepage:  
-  email: hyunseo8157@gist.ac.kr
-######
-- name: Jihun Kim
-  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
-  image: assets/img/jihunkim.jpg # Can be external link
-  # description: > # Can be Markdown
-  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
-  # homepage:  
-  email: caisarl76@gmail.com
+
 ######
 - name: Jimin Sohn
   role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
@@ -118,14 +103,6 @@
   # homepage: 
   email: as584868@gist.ac.kr
 ######
-- name: Wonsic Jang
-  role: B.S. # Will appear next to name
-  image: assets/img/wonsic.jpg # Can be external link
-  # description: > # Can be Markdown
-  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
-  # homepage: 
-  email: wonsicjang@gm.gist.ac.kr
-######
 - name: Daneul Kim
   role: B.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
   image: assets/img/daneulkim.jpg # Can be external link
@@ -176,6 +153,23 @@
   now: Ph.D student @ Yonsei University
   # homepage:  
   email: daechulahn@gm.gist.ac.kr
+
+######
+- name: Hyunseo Koh
+  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
+  image: assets/img/hyunseo.jpg # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
+  # homepage:  
+  email: hyunseo8157@gist.ac.kr
+######
+- name: Jihun Kim
+  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
+  image: assets/img/jihunkim.jpg # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
+  # homepage:  
+  email: caisarl76@gmail.com 
 ######
 - name: Minjae Jeong 
   role: B.S. # Will appear next to name
@@ -192,11 +186,11 @@
   now: MS student @ Yonsei University
   # homepage: 
   email: yoorachoi@gm.gist.ac.kr
-
-
-# ######
-# - name: New member
-#   role: Graduate Student # Will appear next to name
-#   image: assets/img/student_grey.png # Can be external link
-#   description: > 
-#     We're looking forward **strong** and **motivated** graduate students. Please contact the [faculty](mailto:jeany@gist.ac.kr) if you are interested in getting involved.
+######
+- name: Wonsic Jang
+  role: B.S. # Will appear next to name
+  image: assets/img/wonsic.jpg # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
+  # homepage: 
+  email: wonsicjang@gm.gist.ac.kr
