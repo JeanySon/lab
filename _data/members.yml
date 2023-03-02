@@ -46,8 +46,8 @@
   image: assets/img/seonghoon.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
-  homepage: https://deep-learning-study.tistory.com/ 
-  github: https://github.com/Seonghoon-Yu/
+  homepage: deep-learning-study.tistory.com/ 
+  github: github.com/Seonghoon-Yu/
   email: seonghoon@gm.gist.ac.kr
 ######  
 - name: Jinyeob Choi
