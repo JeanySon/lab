@@ -1,3 +1,9 @@
+- year: 2023
+- name: ​​Unsupervised Object Localization with Representer Point Selection
+  image: assets/img/2023uloc.jpg
+  author: Yeonghwan Song, Seokwoo Jang, Dina Katabi, Jeany Son
+  conference: > 
+    **ICCV 2023**
 
 - year: 2023
 - name: Zero-shot Referring Image Segmentation with Global-Local Context Features
