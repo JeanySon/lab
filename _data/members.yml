@@ -172,16 +172,16 @@
   # email: byeonghwikim@gmail.com
 ######
 - name: Daechul Ahn 
-  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
+  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>) | Ph.D student @ Yonsei University </small>
   #image: assets/img/daechulahn.jpg # Can be external link
   #description: > # Can be Markdown
-  now: Ph.D student @ Yonsei University
+  # now: Ph.D student @ Yonsei University
   # homepage:  
   # email: daechulahn@gm.gist.ac.kr
 
 ######
-- name: Hyunseo Koh
-  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
+- name: <small> Hyunseo Koh </small>
+  role: <small> M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
   #image: assets/img/hyunseo.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
