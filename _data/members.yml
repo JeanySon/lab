@@ -169,7 +169,7 @@
   #description: >
   now: Ph.D student @ Yonsei University
   # homepage:  
-  email: byeonghwikim@gmail.com
+  # email: byeonghwikim@gmail.com
 ######
 - name: Daechul Ahn 
   role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
@@ -177,7 +177,7 @@
   #description: > # Can be Markdown
   now: Ph.D student @ Yonsei University
   # homepage:  
-  email: daechulahn@gm.gist.ac.kr
+  # email: daechulahn@gm.gist.ac.kr
 
 ######
 - name: Hyunseo Koh
@@ -186,7 +186,7 @@
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
-  email: hyunseo8157@gist.ac.kr
+  # email: hyunseo8157@gist.ac.kr
 ######
 - name: Jihun Kim
   role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
@@ -194,7 +194,7 @@
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
-  email: caisarl76@gmail.com 
+  # email: caisarl76@gmail.com 
 ######
 - name: Minjae Jeong 
   role: B.S. # Will appear next to name
@@ -202,7 +202,7 @@
   #description: > # Can be Markdown
   now: MS student @ POSTECH 
   # homepage: 
-  email: minjaetidtid@gm.gist.ac.kr
+  # email: minjaetidtid@gm.gist.ac.kr
 ######
 - name: Yura Choi 
   role: B.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
@@ -210,7 +210,7 @@
   #description: > # Can be Markdown
   now: MS student @ Yonsei University
   # homepage: 
-  email: yoorachoi@gm.gist.ac.kr
+  # email: yoorachoi@gm.gist.ac.kr
 ######
 - name: Wonsic Jang
   role: B.S. # Will appear next to name
@@ -218,7 +218,7 @@
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
-  email: wonsicjang@gm.gist.ac.kr
+  # email: wonsicjang@gm.gist.ac.kr
 ######
 - name: Daneul Kim
   role: B.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
@@ -226,7 +226,7 @@
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
-  email: flytodk98@gist.ac.kr
+  # email: flytodk98@gist.ac.kr
 ######
 - name: Yu Yeong Kim
   role: B.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
@@ -234,4 +234,4 @@
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
-  email: uyeongkim@gm.gist.ac.kr
+  # email: uyeongkim@gm.gist.ac.kr
