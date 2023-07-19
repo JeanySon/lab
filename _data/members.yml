@@ -163,19 +163,19 @@
 - position: Alumni
 
 ######
-- name: Byeonghwi Kim 
-  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
+- name: <small> Byeonghwi Kim </small>
+  role: <small> M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>) </small>
   #image: assets/img/byeonghwi.jpg # Can be external link  
   #description: >
   now: Ph.D student @ Yonsei University
   # homepage:  
   # email: byeonghwikim@gmail.com
 ######
-- name: Daechul Ahn 
-  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>) | Ph.D student @ Yonsei University </small>
+- name: <small> Daechul Ahn  </small>
+  role: <small>M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>) </small>
   #image: assets/img/daechulahn.jpg # Can be external link
   #description: > # Can be Markdown
-  # now: Ph.D student @ Yonsei University
+  now: Ph.D student @ Yonsei University
   # homepage:  
   # email: daechulahn@gm.gist.ac.kr
 
@@ -188,48 +188,49 @@
   # homepage:  
   # email: hyunseo8157@gist.ac.kr
 ######
-- name: Jihun Kim
-  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
+- name: <small>Jihun Kim </small>
+  role:<small> M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
   #image: assets/img/jihunkim.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
   # email: caisarl76@gmail.com 
 ######
-- name: Minjae Jeong 
-  role: B.S. # Will appear next to name
+- name: <small>Minjae Jeong  </small>
+  role: <small>B.S. </small> # Will appear next to name
   #image: assets/img/minjae.png # Can be external link
   #description: > # Can be Markdown
   now: MS student @ POSTECH 
   # homepage: 
   # email: minjaetidtid@gm.gist.ac.kr
 ######
-- name: Yura Choi 
-  role: B.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
+- name: <small>Yura Choi  </small>
+  role: <small> B.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
   #image: assets/img/yurachoi.jpg # Can be external link
   #description: > # Can be Markdown
   now: MS student @ Yonsei University
   # homepage: 
   # email: yoorachoi@gm.gist.ac.kr
 ######
-- name: Wonsic Jang
-  role: B.S. # Will appear next to name
+- name: <small> Wonsic Jang </small>
+  role: <small> B.S. </small> # Will appear next to name
   #image: assets/img/wonsic.jpg # Can be external link
   # description: > # Can be Markdown
+  # now: MS student @ GIST
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
   # email: wonsicjang@gm.gist.ac.kr
 ######
-- name: Daneul Kim
-  role: B.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
+- name: <small> Daneul Kim </small>
+  role: <small> B.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
   #image: assets/img/daneulkim.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
   # email: flytodk98@gist.ac.kr
 ######
-- name: Yu Yeong Kim
-  role: B.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
+- name: <small> Yu Yeong Kim </small>
+  role: <small> B.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
   #image: assets/img/yuyeongkim.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
