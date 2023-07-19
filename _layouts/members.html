@@ -39,11 +39,10 @@ description: Template for members page
         <font color="#4B3E3B">{{ member.name }}</font>
       </b>
         {% if member.role %}
-        <small class="text-muted">| {{ member.role }} |
+          <small class="text-muted">| {{ member.role }} </small> |
           {% if member.now %}
           <font color="#4B3E3B">now</font> <font color='grey'>{{ member.now }}</font>
           {% endif %}
-        </small>
         {% endif %}
       </big>
       </p>
