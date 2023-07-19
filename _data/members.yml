@@ -165,7 +165,7 @@
 ######
 - name: Byeonghwi Kim 
   role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
-  image: assets/img/byeonghwi.jpg # Can be external link  
+  #image: assets/img/byeonghwi.jpg # Can be external link  
   #description: >
   now: Ph.D student @ Yonsei University
   # homepage:  
@@ -173,7 +173,7 @@
 ######
 - name: Daechul Ahn 
   role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
-  image: assets/img/daechulahn.jpg # Can be external link
+  #image: assets/img/daechulahn.jpg # Can be external link
   #description: > # Can be Markdown
   now: Ph.D student @ Yonsei University
   # homepage:  
@@ -182,7 +182,7 @@
 ######
 - name: Hyunseo Koh
   role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
-  image: assets/img/hyunseo.jpg # Can be external link
+  #image: assets/img/hyunseo.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
@@ -190,7 +190,7 @@
 ######
 - name: Jihun Kim
   role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
-  image: assets/img/jihunkim.jpg # Can be external link
+  #image: assets/img/jihunkim.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
@@ -198,7 +198,7 @@
 ######
 - name: Minjae Jeong 
   role: B.S. # Will appear next to name
-  image: assets/img/minjae.png # Can be external link
+  #image: assets/img/minjae.png # Can be external link
   #description: > # Can be Markdown
   now: MS student @ POSTECH 
   # homepage: 
@@ -206,7 +206,7 @@
 ######
 - name: Yura Choi 
   role: B.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
-  image: assets/img/yurachoi.jpg # Can be external link
+  #image: assets/img/yurachoi.jpg # Can be external link
   #description: > # Can be Markdown
   now: MS student @ Yonsei University
   # homepage: 
@@ -214,7 +214,7 @@
 ######
 - name: Wonsic Jang
   role: B.S. # Will appear next to name
-  image: assets/img/wonsic.jpg # Can be external link
+  #image: assets/img/wonsic.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
@@ -222,7 +222,7 @@
 ######
 - name: Daneul Kim
   role: B.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
-  image: assets/img/daneulkim.jpg # Can be external link
+  #image: assets/img/daneulkim.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
@@ -230,7 +230,7 @@
 ######
 - name: Yu Yeong Kim
   role: B.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
-  image: assets/img/yuyeongkim.jpg # Can be external link
+  #image: assets/img/yuyeongkim.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
