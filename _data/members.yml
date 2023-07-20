@@ -224,7 +224,7 @@
   # email: wonsicjang@gm.gist.ac.kr
 ######
 - name: <small> Daneul Kim </small>
-  role: <small> B.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
+  role: <small> B.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
   #image: assets/img/daneulkim.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
