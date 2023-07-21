@@ -202,7 +202,7 @@
   role: B.S. # Will appear next to name
   #image: assets/img/minjae.png # Can be external link
   #description: > # Can be Markdown
-  now: MS student @ POSTECH 
+  now: M.S. student @ POSTECH 
   # homepage: 
   # email: minjaetidtid@gm.gist.ac.kr
 ######
@@ -210,7 +210,7 @@
   role: B.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
   #image: assets/img/yurachoi.jpg # Can be external link
   #description: > # Can be Markdown
-  now: MS student @ Yonsei University
+  now: M.S. student @ Yonsei University
   # homepage: 
   # email: yoorachoi@gm.gist.ac.kr
 ######
@@ -218,7 +218,7 @@
   role: B.S.  # Will appear next to name
   #image: assets/img/wonsic.jpg # Can be external link
   # description: > # Can be Markdown
-  # now: MS student @ GIST
+  # now: M.S. student @ GIST
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
   # email: wonsicjang@gm.gist.ac.kr
