@@ -42,14 +42,14 @@ description: Template for members page
           <small class="text-muted"> | <small> {{ member.role }} </small>  </small> 
         {% endif %}
         {% if member.now %}
-          <small><small> <font color="#4B3E3B"> now </font> <font color='grey'>{{ member.now }}</font> </small>  </small> 
+          <small> <small> <font color="#4B3E3B"> now </font> <font color='grey'>{{ member.now }}</font> </small>  </small> 
         {% endif %}
         <br>
       </big>
       </p>
       
 
-      {{ member.description | markdownify }}
+      <font color='grey'> {{ member.description | markdownify }} </font>
 
       <ul class="list-inline">
         {% if member.homepage %}
