@@ -5,7 +5,7 @@
   role: Assistant Professor # Will appear next to name
   image: assets/img/jeany.png # Can be external link
   description: > # Can be Markdown
-    Research Interests: Computer Vision, Deep Learning, Machine Learning
+    <small> <b>Research Interests<b/>: Computer Vision, Deep Learning, Machine Learning </small>
   homepage: jeanyson.github.io
   email: jeany@gist.ac.kr
   googlescholar: scholar.google.com/citations?user=JVliNv8AAAAJ
