@@ -167,7 +167,7 @@
   role:  M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
   #image: assets/img/byeonghwi.jpg # Can be external link  
   #description: >
-  now: Ph.D student @ Yonsei University
+  now: Ph.D student@Yonsei University
   # homepage:  
   # email: byeonghwikim@gmail.com
 ######
@@ -175,14 +175,14 @@
   role: M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>) 
   #image: assets/img/daechulahn.jpg # Can be external link
   #description: > # Can be Markdown
-  now: Ph.D student @ Yonsei University
+  now: Ph.D student@Yonsei University
   # homepage:  
   # email: daechulahn@gm.gist.ac.kr
 
 ######
 - name: <small> Hyunseo Koh </small>
   role:  M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
-  now: Researcher @ Yonsei VnL Lab.
+  now: Researcher@Yonsei VnL Lab.
   #image: assets/img/hyunseo.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
@@ -191,7 +191,7 @@
 ######
 - name: <small>Jihun Kim </small>
   role:  M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
-  now: Minds and company 
+  now: @Minds and company 
   #image: assets/img/jihunkim.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
@@ -202,7 +202,7 @@
   role: B.S. # Will appear next to name
   #image: assets/img/minjae.png # Can be external link
   #description: > # Can be Markdown
-  now: M.S. student @ POSTECH 
+  now: M.S. student@POSTECH 
   # homepage: 
   # email: minjaetidtid@gm.gist.ac.kr
 ######
@@ -210,7 +210,7 @@
   role: B.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
   #image: assets/img/yurachoi.jpg # Can be external link
   #description: > # Can be Markdown
-  now: M.S. student @ Yonsei University
+  now: M.S. student@Yonsei University
   # homepage: 
   # email: yoorachoi@gm.gist.ac.kr
 ######
