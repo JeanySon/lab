@@ -1,3 +1,11 @@
+
+- year: 2023
+- name: ​​Rank-N-Contrast: Learning Continuous Representations for Regression
+  image: assets/img/2023rank.jpg
+  author:  Kaiwen Zha*, Peng Cao*, Jeany Son, Yuzhe Yang, Dina Katabi 
+  conference: > 
+    **NeurIPS 2023**
+
 - year: 2023
 - name: ​​Unsupervised Object Localization with Representer Point Selection
   image: assets/img/2023uloc.jpg
@@ -22,7 +30,7 @@
 
 - name: Weakly Supervised Instance Segmentation by Deep Community Learning
   image: assets/img/2021community.jpg
-  author: Jaedong Hwang, Seohyun Kim, Jeany Son, Bohyung Han
+  author: Jaedong Hwang*, Seohyun Kim*, Jeany Son, Bohyung Han
   conference: > 
     **WACV 2021**
 
