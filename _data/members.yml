@@ -16,14 +16,7 @@
 
 
 
-######
-- name: Jimin Sohn
-  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
-  image: assets/img/jiminsohn.jpg # Can be external link
-  # description: > # Can be Markdown
-  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
-  # homepage:  
-  email: estelle26598@gm.gist.ac.kr
+
 ######
 - name: Jinsoo Park
   role: M.S./Ph.D. Integrated 
@@ -89,14 +82,11 @@
   #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
   # homepage:  
   email: jangseokwoo@gm.gist.ac.kr
-   
-######
-  
-- position: Undergraduate students
+
 
 ######
 - name: Chanhui Lee
-  role: B.S.   # Will appear next to name
+  role: M.S.   # Will appear next to name
   image: assets/img/chanhui.png # Can be external link
   # description: > # Can be Markdown
   #   **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
@@ -104,20 +94,28 @@
   email: as584868@gist.ac.kr
 ######
 - name: Seunggyun Lim
-  role: B.S. 
+  role: M.S./Ph.D. Integrated 
   image: assets/img/seunggyun.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
   email: sk000514@gist.ac.kr
+  
 ######
-- name: San Kim
-  role: B.S. 
-  image: assets/img/san.jpg # Can be external link
+- name: Junbeom Hong
+  role: M.S./Ph.D. Integrated 
+  image: assets/img/junbeom.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
-  email: kimtks456@gm.gist.ac.kr
+  email: junbum766@gm.gist.ac.kr
+
+
+######
+  
+- position: Undergraduate students
+
+
 ######
 - name: Dongjun Nam
   role: B.S. 
@@ -142,18 +140,49 @@
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
   email: kwonhc1122@gm.gist.ac.kr
+
 ######
-- name: Junbeom Hong
+- name: Heungchan Kwon
   role: B.S. 
   image: assets/img/student_grey.png # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
-  email: junbum766@gmail.com
+  email: kwonhc1122@gm.gist.ac.kr
+
+######
+- name: Heungchan Kwon
+  role: B.S. 
+  image: assets/img/student_grey.png # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
+  # homepage: 
+  email: kwonhc1122@gm.gist.ac.kr
+
 
   
 - position: Alumni
 
+######
+- name: Jimin Sohn
+  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
+  # image: assets/img/jiminsohn.jpg # Can be external link
+  now: Intern@NAVER Cloud
+  # description: > # Can be Markdown
+  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
+  # homepage:  
+  # email: estelle26598@gm.gist.ac.kr
+
+######
+- name: San Kim
+  role: B.S. 
+  now: CJ OliveNetworks
+  # image: assets/img/san.jpg # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
+  # homepage: 
+  # email: kimtks456@gm.gist.ac.kr
+  
 ######
 - name: <small> Byeonghwi Kim </small>
   role:  M.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
@@ -217,6 +246,7 @@
 ######
 - name: <small> Daneul Kim </small>
   role: B.S. (Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)
+  now: M.S. student@SNU 
   #image: assets/img/daneulkim.jpg # Can be external link
   # description: > # Can be Markdown
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
