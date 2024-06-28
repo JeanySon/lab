@@ -163,25 +163,6 @@
   
 - position: Alumni
 
-######
-- name: Jimin Sohn
-  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
-  # image: assets/img/jiminsohn.jpg # Can be external link
-  now: Intern@NAVER Cloud
-  # description: > # Can be Markdown
-  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
-  # homepage:  
-  # email: estelle26598@gm.gist.ac.kr
-
-######
-- name: San Kim
-  role: B.S. 
-  now: CJ OliveNetworks
-  # image: assets/img/san.jpg # Can be external link
-  # description: > # Can be Markdown
-  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
-  # homepage: 
-  # email: kimtks456@gm.gist.ac.kr
   
 ######
 - name: <small> Byeonghwi Kim </small>
@@ -260,3 +241,24 @@
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
   # email: uyeongkim@gm.gist.ac.kr
+
+
+######
+- name: Jimin Sohn
+  role: M.S. <small>(Co-advised by <a href="http://ppolon.github.io/">Prof. Jonghyun Choi</a>)</small>
+  # image: assets/img/jiminsohn.jpg # Can be external link
+  now: Intern@NAVER Cloud
+  # description: > # Can be Markdown
+  #  **Research Interests**: # _Computer Vision, Deep Learning, Machine Learning_
+  # homepage:  
+  # email: estelle26598@gm.gist.ac.kr
+
+######
+- name: San Kim
+  role: B.S. 
+  now: CJ OliveNetworks
+  # image: assets/img/san.jpg # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
+  # homepage: 
+  # email: kimtks456@gm.gist.ac.kr
