@@ -1,13 +1,13 @@
 
 - year: 2024
-- name: Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation
+- name: Pseudo-RIS:\ Distinctive Pseudo-supervision Generation for Referring Image Segmentation
   image: assets/img/2024pseudoRIS.jpg
   author:  Seonghoon Yu, Paul Hongsuck Seo+, Jeany Son+ (+Corresponding authors)
   conference: > 
     **ECCV 2024**
 
 - year: 2023
-- name: ​​Rank-N-Contrast; Learning Continuous Representations for Regression
+- name: ​​Rank-N-Contrast:\ Learning Continuous Representations for Regression
   image: assets/img/teaser.png
   author:  Kaiwen Zha*, Peng Cao*, Jeany Son, Yuzhe Yang, Dina Katabi 
   conference: > 
