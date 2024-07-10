@@ -109,11 +109,11 @@
  
 - year: 2010 
  
-- name: Stitching of Microscopic Images for Quantifying Neuronal Growth and Spine Plasticity
-  image: assets/img/nopaperimg.png
-  author: Soo-Min Song, Jeany Son, Myoung-Hee Kim
-  conference: >
-    **ISVC 2010** 
+# - name: Stitching of Microscopic Images for Quantifying Neuronal Growth and Spine Plasticity
+#   image: assets/img/nopaperimg.png
+#   author: Soo-Min Song, Jeany Son, Myoung-Hee Kim
+#   conference: >
+#     **ISVC 2010** 
   
 - name: Morphological Change Tracking of Dendritic Spines based on Structural Features
   image: assets/img/2010dendrite.jpg
@@ -121,10 +121,10 @@
   conference: >
     **Journal of Microscopy, Vol.241, No.3, 2010 (SCI IF:2.136)**
 
-- year: 2009
+# - year: 2009
 
-- name: Dendritic Spine Detection using Tree-like Structure of Neurons
-  image: assets/img/nopaperimg.png
-  author: Jeany Son, Soo-min Song, Myoung-Hee Kim
-  conference: >
-    **The 12th Korea-German Joint Workshop on Advanced Medical Image Processing, 2009**
+# - name: Dendritic Spine Detection using Tree-like Structure of Neurons
+#   image: assets/img/nopaperimg.png
+#   author: Jeany Son, Soo-min Song, Myoung-Hee Kim
+#   conference: >
+#     **The 12th Korea-German Joint Workshop on Advanced Medical Image Processing, 2009**
