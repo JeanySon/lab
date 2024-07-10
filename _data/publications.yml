@@ -30,7 +30,7 @@
   image: assets/img/2022contrastive.png
   author: Jeany Son
   conference: > 
-    **CVPR 2022**
+    **CVPR 2022** [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Son_Contrastive_Learning_for_Space-Time_Correspondence_via_Self-Cycle_Consistency_CVPR_2022_paper.html)
 
 - year: 2021
 
@@ -46,14 +46,14 @@
   image: assets/img/2018forget.jpg
   author: Jeany Son, Daniel Kim, Solae Lee, Suha Kwak, Minsu Cho, Bohyung Han
   conference: > 
-    **ACCV 2018 (Oral)** [paper]
+    **ACCV 2018 (Oral)** 
     
 
 - name: Real-Time MDNet  
   image: assets/img/2018rtmdnet.jpg
   author: Ilchae Jung, Jeany Son, Mooyeol Baek, Bohyung Han
   conference: >
-    **ECCV 2018** [paper] [code] [project page]
+    **ECCV 2018**
 
 
 - year: 2017
@@ -63,14 +63,14 @@
   image: assets/img/2017mot.jpg
   author: Jeany Son, Mooyeol Baek, Minsu Cho, Bohyung Han
   conference: >
-    **CVPR 2017** [paper] [results]
+    **CVPR 2017** 
 
 
 - name: Superpixel-based Tracking-by-Segmentation using Markov Chains
   image: assets/img/2017sp.jpg
   author: Donghun Yeo, Jeany Son, Bohyung Han, Joonhee Han
   conference: >
-    **CVPR 2017** [paper]  
+    **CVPR 2017** 
 
 - year: 2015
 
@@ -79,7 +79,7 @@
   image: assets/img/2015iccv.jpg
   author: Jeany Son, Ilchae Jung, Kayoung Park, Bohyung Han
   conference: >
-    **ICCV 2015** [paper] [project page]  
+    **ICCV 2015** 
 
 - year: 2014
  
@@ -88,7 +88,7 @@
   image: assets/img/2014nips.jpg
   author: Jan Feyereisl, Suha Kwak, Jeany Son, Bohyung Han
   conference: >
-    **NIPS 2014** [paper]  
+    **NIPS 2014** 
   
 - year: 2013
   
@@ -105,7 +105,7 @@
   image: assets/img/2011rank.jpg
   author: Chang-Kyu Song, Jeany Son, Suha Kwak, Bohyung Han
   conference: >
-    **BMVC 2011** [paper]
+    **BMVC 2011** 
  
 - year: 2010 
  
