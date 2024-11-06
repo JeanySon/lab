@@ -2,7 +2,7 @@
 - position: Faculty
 
 - name: Jeany Son 
-  role: Assistant Professor # Will appear next to name
+  role: Associate Professor # Will appear next to name
   image: assets/img/jeany.png # Can be external link
   description: > # Can be Markdown
     <small> <b>Research Interests</b>: Computer Vision, Deep Learning, Machine Learning </small>
