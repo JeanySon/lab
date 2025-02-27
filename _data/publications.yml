@@ -1,4 +1,12 @@
 
+- year: 2025
+- name: Data-free Universal Adversarial Perturbation with Pseudo-semantic Prior
+  image: assets/img/2025uap.jpg
+  author:  Chanhui Lee, Yeonghwan Song, Jeany Son
+  conference: > 
+    **CVPR 2025** 
+
+
 - year: 2024
 - name: Pseudo-RIS; Distinctive Pseudo-supervision Generation for Referring Image Segmentation
   image: assets/img/2024pseudoRIS.jpg
