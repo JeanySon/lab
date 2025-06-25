@@ -124,40 +124,7 @@
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
   email: june6423@gm.gist.ac.kr
-######
-- name: Yunho Kim
-  role: B.S. 
-  image: assets/img/student_grey.png # Can be external link
-  # description: > # Can be Markdown
-  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
-  # homepage: 
-  email: youknowyunho@gm.gist.ac.kr
-######
-- name: Jiyoon Kim
-  role: B.S. 
-  image: assets/img/student_grey.png # Can be external link
-  # description: > # Can be Markdown
-  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
-  # homepage: 
-  email: michelle1304@gm.gist.ac.kr
 
-######
-- name: Heungchan Kwon
-  role: B.S. 
-  image: assets/img/student_grey.png # Can be external link
-  # description: > # Can be Markdown
-  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
-  # homepage: 
-  email: kwonhc1122@gm.gist.ac.kr
-
-######
-- name: Seolyeong Bae 
-  role: B.S. 
-  image: assets/img/student_grey.png # Can be external link
-  # description: > # Can be Markdown
-  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
-  # homepage: 
-  email: seolyeongbae@gm.gist.ac.kr
 
 
   
@@ -263,3 +230,41 @@
   #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
   # homepage: 
   # email: kimtks456@gm.gist.ac.kr
+
+######
+- name: <small> Yunho Kim </small>
+  role: B.S. 
+  now: M.S. student@KAIST 
+  # image: assets/img/student_grey.png # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
+  # homepage: 
+  # email: youknowyunho@gm.gist.ac.kr
+######
+- name: <small> Jiyoon Kim </small>
+  role: B.S. 
+  # image: assets/img/student_grey.png # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
+  # homepage: 
+  # email: michelle1304@gm.gist.ac.kr
+
+######
+- name: <small> Heungchan Kwon </small>
+  role: B.S. 
+  now: M.S. student@KAIST 
+  # image: assets/img/student_grey.png # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
+  # homepage: 
+  # email: kwonhc1122@gm.gist.ac.kr
+
+######
+- name: <small> Seolyeong Bae </small>
+  role: B.S. 
+  now: Naver
+  # image: assets/img/student_grey.png # Can be external link
+  # description: > # Can be Markdown
+  #  **Research Interests**: _Computer Vision, Deep Learning, Machine Learning_
+  # homepage: 
+  # email: seolyeongbae@gm.gist.ac.kr
